@@ -1,7 +1,7 @@
 <?php 
 
 $firstStr='blalabla bla bla';
-$firstEscapeStr='Dam son !!!\n You re a bench !';
+$firstEscapeStr="Dam son !!!\n You re a bench !";
 $firstBool = true;
 $firstInteger = 26;
 $firstFloat = 26.25;
