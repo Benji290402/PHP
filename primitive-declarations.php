@@ -1,6 +1,6 @@
 <?php 
 
-$firstStr="Hello my name is Frank";
+$firstStr="HALLA AKBAR";
 $firstEscapeStr="Dam son !!!\n You're a bench !";
 $firstBool = true;
 $firstInteger = 26;
