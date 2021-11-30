@@ -5,5 +5,5 @@ $firstBool = true;
 $firstInteger = 26;
 $firstFloat = 26.25;
 $firstNull = null;
-$firstArray = array(2, null, 'hi', 5.5, false);
+$firstArray = array(2, null, 'Hi', 5.5, false);
 ?>
