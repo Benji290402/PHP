@@ -6,6 +6,6 @@ $firstBool = true;
 $firstInteger = 26;
 $firstFloat = 26.25;
 $firstNull = null;
-$firstArray = array(2,1=>null,2=>'hi',3=>5.5,4=>false);
+$firstArray = array(2,null,'hi',5.5,false);
 
 ?>
