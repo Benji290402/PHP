@@ -9,6 +9,8 @@
         if($nbrRicard = 5){
             echo"I am no longer very fresh...\n";
         }
-        
-    }while($nbrRicard<=7);
+        if($nbrRicard = 7){
+            break;
+        }
+    }while($nbrRicard < 9);
 ?>
