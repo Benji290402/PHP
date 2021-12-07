@@ -10,5 +10,5 @@
             echo"I am no longer very fresh...\n";
         }
         
-    }while($nbrRicard<7);
+    }while($nbrRicard<=7);
 ?>
