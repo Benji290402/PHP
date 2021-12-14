@@ -3,7 +3,7 @@
         return "Hello";
     }
     function sayHelloTo( string $name){      
-        return "Hello $name";
+        return "Hello ".$name;
     }
     sayHelloTo("");
     sayHello();
