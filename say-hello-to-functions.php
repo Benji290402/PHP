@@ -5,6 +5,5 @@
     function sayHelloTo( string $name){      
         return "Hello ".$name;
     }
-    sayHelloTo("");
-    sayHello();
+
 ?>
