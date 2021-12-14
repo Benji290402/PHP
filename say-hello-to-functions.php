@@ -1,10 +1,8 @@
 <?php
     function sayHello() {
-        echo "Hello";
+        return "Hello";
     }
-    function sayHelloTo( string $name){
-        echo "Hello $name";
+    function sayHelloTo( string $name){      
+        return "Hello $name";
     }
-    sayHello();
-    sayHelloTo("john");
 ?>
