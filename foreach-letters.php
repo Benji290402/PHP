@@ -1,5 +1,4 @@
 <?php 
-echo "A |";
-foreach(range('B','Y') as $i){
-    echo " $i |";  
-}echo " Z";?> 
+foreach(range('A','Z') as $key => $i){
+    if ($key == 0){ echo "A "; }else {echo  "| $i "; } }
+?> 
